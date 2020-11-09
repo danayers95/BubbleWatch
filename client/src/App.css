@@ -28,6 +28,16 @@
   color: #61dafb;
 }
 
+.UserIcon{
+  border-radius: 50%;
+  /*background-color: #92eb48cc;*/
+  /*background-image: url(../icons/add.png);*/
+  background-size: cover;
+  height: 50px;
+  width: 50px;
+}
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
